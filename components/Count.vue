@@ -26,7 +26,7 @@
     <section class="time timeSet d-flex">
       <div>
         <input type="number" v-model.number="inputMinutes" placeholder="Enter minutes" />
-        <button @click="startCountdown">Start Countdown</button>
+        <button @click="startCountdown">Start Countdown Time </button>
       </div>
     </section>
 
